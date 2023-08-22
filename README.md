@@ -5,6 +5,7 @@
  * Fazer um site espelho (cópia) de outro site da web
  * O site escolhido foi Netflix
  * Os botões não são funcionais, apenas ilustrativos
+ * Usando CSS e HTML puro
  * <a href="https://reproducao-html.vercel.app/"> Link da página :)</a>
 
 #
